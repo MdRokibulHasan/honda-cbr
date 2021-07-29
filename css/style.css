@@ -23,16 +23,13 @@ font-weight: 100px;
 img:hover{
     filter: grayscale(0%);
 }
-.image-size{
-    width: 288px;
-    height: 243px;
-}
+
 
 .differnt-color{
     color: #E76F51;
 }
 
-/* Happy Client section  */
+/*  Client section  */
 
 .client-image{
     width: 149px;
